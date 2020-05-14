@@ -1,2 +1,6 @@
-# Minecraft-RTX-64X-Texture-Pack
-Creating a 64X original texture pack, taking inspiration from the vanilla textures but trying not to stay too close.
+Hi, thanks for downloading my pack!
+
+To install this, as long as you have the Bedrock RTX beta, all that should be necessary is double clicking
+the "TheCivilHulk RTX 64X64.mcpack" file. This should load it into your game, and during world creation, or
+in the settings of an existing world, you should be able to activate it from the "my packs" section. If you
+have any issues with this, feel free to message me on reddit u/TheCivilHulk, or on the discord for r/MinecraftRTX.
